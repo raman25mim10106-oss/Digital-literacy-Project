@@ -1,7 +1,7 @@
 # Digital-literacy-Project #
 
 
-In this project we created reports about cyber crime and how to tackle them using digital literacy 
+In this project we created reports about cyber crime and how to tackle them using digital literacy The project aims to build a comprehensive Digital Literacy Portfolio to help peers navigate professional online profiles, safe communication, and cyber awareness. It consists of 5 tasks ranging from visual design and professional networking to coding platforms and cybersecurity to the demonstration of core concepts of digital literacy
 
 
 ## Project Title: Digital Literacy and portfolio (CSE0001) ##
