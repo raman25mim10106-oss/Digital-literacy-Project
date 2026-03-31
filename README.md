@@ -17,24 +17,3 @@ Task 5: A case study on the "Digital Arrest" cybercrime and a prevention guide.
 
 Google Form Link: https://forms.gle/rvZ1YhVm5XePfabo8
 canva project link: https://canva.link/c43v61a2cjb96a6
-
-### Folder Navigation ###
-To make it easy for the faculty to grade, add a small table or list showing where files are located:
-
-
-report/: Final Project Report (.pdf/.docx).
-
-
-task-1-presentation/: Infographic image.
-
-
-task-2-portfolio/: Profile screenshots.
-
-
-task-3-platforms/: Coding and Form screenshots.
-
-
-task-4-email-etiquette/: Email drafts and checklist.
-
-
-task-5-cybercrime/: Case study and prevention tips.
